@@ -6,6 +6,7 @@ import HelloWorld from './components/HelloWorld.vue'
   <div class="test1">
     <div class="test2" >
     </div>
+    <el-button type="primary">Test 1</el-button>
     <a href="https://vuejs.org/" target="_blank">
       <img src="./assets/vue.svg" class="logo vue" alt="Vue logo" />
     </a>
